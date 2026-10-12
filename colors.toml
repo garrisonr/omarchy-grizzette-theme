@@ -1,11 +1,15 @@
 # Grizzette — the Garrison Gazette desktop theme for Omarchy
-# Paper #FFDDB5 · Ink #6B3816 · Accent #FB4E00 · Cool highlight #CAE7FC
+# Paper #FFDDB5 · Ink #6B3816 · Accent #A83500 (deepened for contrast) · Cool highlight #CAE7FC
 # 70s coffee-brand retrofuturism, straight off the morning edition.
+#
+# Contrast pass (2026-10-11): every text role verified >= 4.5:1 on the paper
+# background (WCAG AA). Dimmed/secondary text, muted elements, and the
+# orange-red accent were the failures (2.5-3.5:1); all deepened, hues kept.
 mode = "light"
 
-accent = "#FB4E00"
+accent = "#A83500"
 selection = "#CAE7FC"
-muted = "#A68B6B"
+muted = "#6F5B3D"
 
 background = "#FFDDB5"
 dark_background = "#F3CDA0"
@@ -13,32 +17,32 @@ darker_background = "#E7BC87"
 lighter_background = "#FFE9CC"
 
 foreground = "#6B3816"
-dark_foreground = "#96704A"
+dark_foreground = "#6E4F2E"
 light_foreground = "#4A2C10"
 bright_foreground = "#2E1C08"
 
-red = "#D64700"
-green = "#5F7D2E"
-yellow = "#B57E1F"
-blue = "#2E6E9E"
+red = "#A83500"
+green = "#4F6B25"
+yellow = "#7E5A12"
+blue = "#2A6591"
 magenta = "#9C3D54"
-cyan = "#3E8FA8"
+cyan = "#2A6E86"
 
 color0 = "#6B3816"
-color1 = "#D64700"
-color2 = "#5F7D2E"
-color3 = "#B57E1F"
-color4 = "#2E6E9E"
+color1 = "#A83500"
+color2 = "#4F6B25"
+color3 = "#7E5A12"
+color4 = "#2A6591"
 color5 = "#9C3D54"
-color6 = "#3E8FA8"
+color6 = "#2A6E86"
 color7 = "#FFDDB5"
-color8 = "#96704A"
-color9 = "#FB4E00"
-color10 = "#7FA33D"
-color11 = "#D9A13B"
-color12 = "#4A93C9"
-color13 = "#C05A72"
-color14 = "#7FBFDB"
+color8 = "#6F5B3D"
+color9 = "#C23F00"
+color10 = "#55702B"
+color11 = "#7E5A12"
+color12 = "#2B6EA6"
+color13 = "#A8455F"
+color14 = "#336F8B"
 color15 = "#FFF6E8"
 
 # Hyprland active window border: sunrise over newsprint
