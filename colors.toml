@@ -1,0 +1,45 @@
+# Grizzette — the Garrison Gazette desktop theme for Omarchy
+# Paper #FFDDB5 · Ink #6B3816 · Accent #FB4E00 · Cool highlight #CAE7FC
+# 70s coffee-brand retrofuturism, straight off the morning edition.
+mode = "light"
+
+accent = "#FB4E00"
+selection = "#CAE7FC"
+muted = "#A68B6B"
+
+background = "#FFDDB5"
+dark_background = "#F3CDA0"
+darker_background = "#E7BC87"
+lighter_background = "#FFE9CC"
+
+foreground = "#6B3816"
+dark_foreground = "#96704A"
+light_foreground = "#4A2C10"
+bright_foreground = "#2E1C08"
+
+red = "#D64700"
+green = "#5F7D2E"
+yellow = "#B57E1F"
+blue = "#2E6E9E"
+magenta = "#9C3D54"
+cyan = "#3E8FA8"
+
+color0 = "#6B3816"
+color1 = "#D64700"
+color2 = "#5F7D2E"
+color3 = "#B57E1F"
+color4 = "#2E6E9E"
+color5 = "#9C3D54"
+color6 = "#3E8FA8"
+color7 = "#FFDDB5"
+color8 = "#96704A"
+color9 = "#FB4E00"
+color10 = "#7FA33D"
+color11 = "#D9A13B"
+color12 = "#4A93C9"
+color13 = "#C05A72"
+color14 = "#7FBFDB"
+color15 = "#FFF6E8"
+
+# Hyprland active window border: sunrise over newsprint
+hyprland_active_border = "rgba(fb4e00ee) rgba(6b3816ee) 45deg"
